@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, Soy Erick</h1>
 <h3 align="center">Un programador Java Jr. de México</h3>
 
-- 🔭Estoy trabajando en una aplicación para Android studio utilizando Java llamada **NutriApp**
+- 🔭Estoy trabajando en una aplicación para Android studio usando Java que se llama **NutriApp**
 
-- 👨‍💻 Mi ultimo proyecto que realice fue una aplicación se asistencia de personal que se llama AsistenciApp [https://github.com/JamesR00t/asistenciApp_v1](https://github.com/JamesR00t/asistenciApp_v1)
+- 👨‍💻 Mi ultimo proyecto que realice fue una aplicación de asistencia de personal que se llama AsistenciApp [https://github.com/JamesR00t/asistenciApp_v1](https://github.com/JamesR00t/asistenciApp_v1)
 
-- 📫 Puedes contactarme por medio de correo electronico **erick.flores.gomez@hotmail.com**
+- 📫 Puedes contactarme por correo electrónico **erick.flores.gomez@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
