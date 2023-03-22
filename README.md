@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Erick</h1>
-<h3 align="center">Un programador Java Jr. de México</h3>
+<h3 align="center">Un programador Java Jr.</h3>
 
 - 🔭Estoy trabajando en una aplicación para Android studio usando Java que se llama **NutriApp**
 
