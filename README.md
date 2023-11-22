@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Erick</h1>
 <h3 align="center">Un programador Java Jr.</h3>
 
-- 🔭Estoy trabajando en una aplicación para Android Studio usando Java llamada **NutriApp**
+- 🔭Durante mi proyecto de titulación, diseñé y desarrollé una aplicación móvil en Android utilizando el IDE Android Studio. Utilicé Java como lenguaje de programación principal, integrando una base de datos MySQL con conexión mediante PHP. Actualmente, estoy ampliando mis conocimientos en Java y perfeccionando mis habilidades de programación a través de ejercicios en la plataforma CODEWARS. Siempre busco oportunidades para mejorar mis habilidades técnicas, demostrando así mi compromiso activo con el desarrollo profesional como programador.
 
 - 👨‍💻 Mi ultimo proyecto que realice fue una aplicación de asistencia de personal que se llama AsistenciApp [https://github.com/JamesR00t/asistenciApp_v1](https://github.com/JamesR00t/asistenciApp_v1)
 
