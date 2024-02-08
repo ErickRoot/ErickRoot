@@ -1,12 +1,25 @@
 <h1 align="center">Hola 👋, Soy Erick</h1>
 <h3 align="center">Un programador Java Jr.</h3>
 
-- 🔭Durante mi proyecto de titulación, diseñé y desarrollé una aplicación móvil en Android utilizando el IDE Android Studio. Utilicé Java como lenguaje de programación principal, integrando una base de datos MySQL con conexión mediante PHP. Actualmente, estoy ampliando mis conocimientos en Java y perfeccionando mis habilidades de programación a través de ejercicios en la plataforma CODEWARS. Siempre busco oportunidades para mejorar mis habilidades técnicas, demostrando así mi compromiso activo con el desarrollo profesional como programador.
+**- Sobre Mí:**
 
-- 👨‍💻 Mi ultimo proyecto que realice fue una aplicación de asistencia de personal que se llama AsistenciApp [https://github.com/JamesR00t/asistenciApp_v1](https://github.com/JamesR00t/asistenciApp_v1)
+Soy un programador con experiencia en el desarrollo de aplicaciones móviles, especialmente en Java. Durante mi proyecto de titulación, realice el diseño y desarrollo de una aplicación Android utilizando Android Studio, con enfoque en Java y la integración de una base de datos MySQL mediante PHP.
 
-- 📫 Puedes contactarme por correo electrónico **erick.flores.gomez@hotmail.com**
+Este proyecto fue un hito significativo, destacando concretamente en la creación de la aplicación "AsistenciApp".
 
+AsistenciApp:
+
+Desarrollé la aplicación de asistencia de personal. [Enlace al proyecto](https://github.com/JamesR00t/asistenciApp_v1).
+
+Esta experiencia consolidó mis habilidades en diseño y desarrollo de aplicaciones, así como en la gestión de proyectos.
+    
+**- Aprendizaje Continuo:**
+
+Actualmente, estoy expandiendo mis conocimientos en Java y perfeccionando mis habilidades de programación a través de retos en CODEWARS. Busco nuevos desafíos y la oportunidad de explorar tecnologías emergentes.
+
+**Contacto:**
+
+Si encuentras mi perfil interesante o tienes una oportunidad que crees que podría encajar, no dudes en contactarme por correo electrónico: erick.flores.gomez@hotmail.com.
 
 <p align="left">
 </p>
